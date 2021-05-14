@@ -1,3 +1,3 @@
 # Index.md
 
-[About] {about.md}
+[About] (about.md)
