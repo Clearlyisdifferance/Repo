@@ -1,3 +1,3 @@
-# Index
+# Index.md
 
 [About] {about.md}
