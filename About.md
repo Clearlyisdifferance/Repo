@@ -2,6 +2,6 @@
 
 Some Info
 
-[Back to home page] (index.md)
+[Back to home page](index.md)
 
 
